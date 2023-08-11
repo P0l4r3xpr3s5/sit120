@@ -1,0 +1,40 @@
+table{border-collapse: collapse}
+th,tr,td{border: 1px solid black;
+    padding: 30px;
+    font-size:40px;
+}
+h1 {
+    text-align: center;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+li {
+    color: gray;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:active {
+    color: navajowhite;
+}
+
+p {
+    text-align: right;
+    text-decoration: line-through;
+    color: purple;
+}
